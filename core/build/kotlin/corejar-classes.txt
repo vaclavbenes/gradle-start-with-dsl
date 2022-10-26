@@ -1,0 +1,1 @@
+/Users/vaclav.benes/Repos/gradle/start-with-dsl/core/build/classes/java/main/org/example/Main.class

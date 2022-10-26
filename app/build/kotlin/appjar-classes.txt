@@ -1,0 +1,1 @@
+/Users/vaclav.benes/Repos/gradle/start-with-dsl/app/build/classes/kotlin/main/App.class:/Users/vaclav.benes/Repos/gradle/start-with-dsl/app/build/classes/kotlin/main/MainKt.class
